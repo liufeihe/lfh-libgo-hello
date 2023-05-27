@@ -1,3 +1,3 @@
-module github.com/lfh-libgo-hello
+module github.com/liufeihe/lfh-libgo-hello
 
 go 1.19
